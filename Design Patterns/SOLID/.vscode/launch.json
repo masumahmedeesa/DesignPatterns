@@ -1,0 +1,25 @@
+{
+                                          "configurations": [
+                                                                                    {
+                                                                                                                              "type": "java",
+                                                                                                                              "name": "CodeLens (Launch) - hello",
+                                                                                                                              "request": "launch",
+                                                                                                                              "mainClass": "hello",
+                                                                                                                              "projectName": "SOLID_PRE_7908fb8c"
+                                                                                    },
+                                                                                    {
+                                                                                                                              "type": "java",
+                                                                                                                              "name": "CodeLens (Launch) - OpenClosed",
+                                                                                                                              "request": "launch",
+                                                                                                                              "mainClass": "OpenClosed",
+                                                                                                                              "projectName": "SOLID_PRE_7908fb8c"
+                                                                                    },
+                                                                                    {
+                                                                                                                              "type": "java",
+                                                                                                                              "name": "CodeLens (Launch) - SingleResponcibility",
+                                                                                                                              "request": "launch",
+                                                                                                                              "mainClass": "SingleResponcibility",
+                                                                                                                              "projectName": "SOLID_PRE_7908fb8c"
+                                                                                    }
+                                          ]
+}

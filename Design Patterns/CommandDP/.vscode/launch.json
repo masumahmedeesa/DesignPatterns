@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mainClass",
+            "request": "launch",
+            "mainClass": "mainClass",
+            "projectName": "Remote_547658d3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Remote_547658d3"
+        }
+    ]
+}
